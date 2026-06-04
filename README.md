@@ -256,7 +256,7 @@ Top Factors:
 
 ## 👨‍💻 Author
 
-**Prateek Vashishtha**
+ANANYA JAIN
 
 * 📍 India
 * 💻 AI & Full Stack Enthusiast
